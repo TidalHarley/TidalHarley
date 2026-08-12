@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TidalHarley/TidalHarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Statistics
 
-Here are some ideas to get you started:
+[![Profile Views](https://komarev.com/ghpvc/?username=TidalHarley&color=6c8ed4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TidalHarley)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/TidalHarley">
+  <img height="250" alt="GitHub Stats" src="./profile/stats.svg">
+</a>
+<a href="https://github.com/TidalHarley">
+  <img height="250" alt="Most used languages" src="./profile/languages.svg">
+</a>
+
+</div>
+
