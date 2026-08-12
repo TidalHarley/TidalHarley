@@ -1,6 +1,6 @@
 <div align="center">
 
-# GitHub Statistics
+# Welcome to Harley's GitHub
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TidalHarley&color=6c8ed4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TidalHarley)
 
