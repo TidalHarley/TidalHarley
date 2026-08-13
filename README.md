@@ -5,10 +5,10 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TidalHarley&color=6c8ed4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TidalHarley)
 
 <a href="https://github.com/TidalHarley">
-  <img height="218" alt="GitHub Stats" src="./profile/stats.svg">
+  <img height="215" alt="GitHub Stats" src="./profile/stats.svg">
 </a>
 <a href="https://github.com/TidalHarley">
-  <img height="218" alt="Most used languages" src="./profile/languages.svg">
+  <img height="215" alt="Most used languages" src="./profile/languages.svg">
 </a>
 
 </div>
