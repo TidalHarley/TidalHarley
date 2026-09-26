@@ -18,7 +18,7 @@ I'm always happy to connect with fellow researchers and developers, exchange ide
 <br>
 
 <div align="left">
-<a href="https://github.com/TidalHarley"><img width="51.5%" alt="GitHub Stats" src="./profile/stats.svg"></a><a href="https://github.com/TidalHarley"><img width="48.5%" alt="Most used languages" src="./profile/languages.svg"></a>
+<a href="https://github.com/TidalHarley"><img width="54.75%" alt="GitHub Stats" src="./profile/stats.svg"></a><a href="https://github.com/TidalHarley"><img width="45.25%" alt="Most used languages" src="./profile/languages.svg"></a>
 </div>
 
 
