@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Haolin Yang&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 120, Total PRs: 6, Total PRs Merged: 3, Merged PRs Percentage: 50.00, Total Issues: 5, Issues Commented: 6, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 120, Total PRs: 6, Total PRs Merged: 3, Merged PRs Percentage: 50.00, Total Issues: 5, Issues Commented: 7, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -262,7 +262,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_commented"
-      >6</text></a>
+      >7</text></a>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
